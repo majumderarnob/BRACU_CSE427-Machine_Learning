@@ -1,6 +1,1 @@
-#Assignment 1 - Decision Tree
-Assignment 2 - Random Forest
-Assignment 3- Gradient descent
-Assignment 4 - Linear Regression 1
-Assignment 5 - Linear Regression with Softmax
-Assignment 6 - SVM
+These are my Lab Assignment files with the solution of Brac University's Computer Science & Engineering departmental elective course CSE427 known as Machine Learning. These Lab assignments are given during the Fall'2023 Semester as the course work.
